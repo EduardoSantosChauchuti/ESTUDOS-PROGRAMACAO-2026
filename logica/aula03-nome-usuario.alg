@@ -1,7 +1,7 @@
 algoritmo "Primeiro"
 //Disciplina: Logica de programacao
 //Professor: Gustavo Guanabara
-//Descricao: Falar o nome de uma pessoa
+//Descricao: Lê o nome de uma pessoa
 var
   Nome: caractere
 inicio
