@@ -1,7 +1,7 @@
 algoritmo "Primeiro"
 //Disciplina: Logica de programacao
 //Professor: Gustavo Guanabara
-//Descricao: Lê o nome de uma pessoa
+//Descricao: Fazer uma conta.
 var
   N1, N2, S: Inteiro
 inicio
